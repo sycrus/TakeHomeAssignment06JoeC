@@ -1,0 +1,8 @@
+<resources>
+    <string name="calculator_activity_label">Tip Calculator</string>
+    <string name="receipt_activity_label">Your Receipt</string>
+    <string name="amount_hint">Amount</string>
+    <string name="tip_hint">Tip Percentage</string>
+    <string name="tax_hint">Tax Percentage</string>
+    <string name="submit_text">Submit</string>
+</resources>
